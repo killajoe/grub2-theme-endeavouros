@@ -6,18 +6,17 @@ title-text: ""
 
 terminal-box: "terminal_box_*.png"
 terminal-font: "Gnu Unifont Mono Regular 16"
-
 + boot_menu {
-  left = 45%
-  width = 50%
-  top = 30%
-  height = 50%	
+  left = 10%
+  width = 80%
+  top = 10%
+  height = 80%	
 
   item_font = "Raleway Regular 16"
   item_color = "#fff"
-  item_height = 48
+  item_height = 24
   item_icon_space = 8
-  item_spacing = 2
+  item_spacing = 16
 
   selected_item_font = "Raleway Regular 16"
   selected_item_color= "#000"
